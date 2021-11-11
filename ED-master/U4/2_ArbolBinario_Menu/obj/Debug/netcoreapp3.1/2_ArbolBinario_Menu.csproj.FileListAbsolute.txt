@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\bin\Debug\netcoreapp3.1\2_ArbolBinario_Menu.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\bin\Debug\netcoreapp3.1\2_ArbolBinario_Menu.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\bin\Debug\netcoreapp3.1\2_ArbolBinario_Menu.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\bin\Debug\netcoreapp3.1\2_ArbolBinario_Menu.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\bin\Debug\netcoreapp3.1\2_ArbolBinario_Menu.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\bin\Debug\netcoreapp3.1\2_ArbolBinario_Menu.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\obj\Debug\netcoreapp3.1\2_ArbolBinario_Menu.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\obj\Debug\netcoreapp3.1\2_ArbolBinario_Menu.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\obj\Debug\netcoreapp3.1\2_ArbolBinario_Menu.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\obj\Debug\netcoreapp3.1\2_ArbolBinario_Menu.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\obj\Debug\netcoreapp3.1\2_ArbolBinario_Menu.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\obj\Debug\netcoreapp3.1\2_ArbolBinario_Menu.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U4\2_ArbolBinario_Menu\obj\Debug\netcoreapp3.1\2_ArbolBinario_Menu.genruntimeconfig.cache

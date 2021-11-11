@@ -1,0 +1,11 @@
+C:\Users\Rojo_\Documents\POO\propiedades\bin\Debug\netcoreapp3.1\propiedades.exe
+C:\Users\Rojo_\Documents\POO\propiedades\bin\Debug\netcoreapp3.1\propiedades.deps.json
+C:\Users\Rojo_\Documents\POO\propiedades\bin\Debug\netcoreapp3.1\propiedades.runtimeconfig.json
+C:\Users\Rojo_\Documents\POO\propiedades\bin\Debug\netcoreapp3.1\propiedades.runtimeconfig.dev.json
+C:\Users\Rojo_\Documents\POO\propiedades\bin\Debug\netcoreapp3.1\propiedades.dll
+C:\Users\Rojo_\Documents\POO\propiedades\bin\Debug\netcoreapp3.1\propiedades.pdb
+C:\Users\Rojo_\Documents\POO\propiedades\obj\Debug\netcoreapp3.1\propiedades.csprojAssemblyReference.cache
+C:\Users\Rojo_\Documents\POO\propiedades\obj\Debug\netcoreapp3.1\propiedades.AssemblyInfoInputs.cache
+C:\Users\Rojo_\Documents\POO\propiedades\obj\Debug\netcoreapp3.1\propiedades.AssemblyInfo.cs
+C:\Users\Rojo_\Documents\POO\propiedades\obj\Debug\netcoreapp3.1\propiedades.dll
+C:\Users\Rojo_\Documents\POO\propiedades\obj\Debug\netcoreapp3.1\propiedades.pdb

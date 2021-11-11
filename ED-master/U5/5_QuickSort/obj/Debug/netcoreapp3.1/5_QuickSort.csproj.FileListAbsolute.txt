@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\bin\Debug\netcoreapp3.1\5_QuickSort.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\bin\Debug\netcoreapp3.1\5_QuickSort.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\bin\Debug\netcoreapp3.1\5_QuickSort.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\bin\Debug\netcoreapp3.1\5_QuickSort.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\bin\Debug\netcoreapp3.1\5_QuickSort.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\bin\Debug\netcoreapp3.1\5_QuickSort.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\obj\Debug\netcoreapp3.1\5_QuickSort.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\obj\Debug\netcoreapp3.1\5_QuickSort.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\obj\Debug\netcoreapp3.1\5_QuickSort.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\obj\Debug\netcoreapp3.1\5_QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\obj\Debug\netcoreapp3.1\5_QuickSort.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\obj\Debug\netcoreapp3.1\5_QuickSort.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\5_QuickSort\obj\Debug\netcoreapp3.1\5_QuickSort.genruntimeconfig.cache

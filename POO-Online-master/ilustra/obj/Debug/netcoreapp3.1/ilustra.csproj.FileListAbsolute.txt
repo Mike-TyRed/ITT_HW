@@ -1,0 +1,11 @@
+C:\Users\Rojo_\Documents\POO\ilustra\obj\Debug\netcoreapp3.1\ilustra.csprojAssemblyReference.cache
+C:\Users\Rojo_\Documents\POO\ilustra\obj\Debug\netcoreapp3.1\ilustra.AssemblyInfoInputs.cache
+C:\Users\Rojo_\Documents\POO\ilustra\obj\Debug\netcoreapp3.1\ilustra.AssemblyInfo.cs
+C:\Users\Rojo_\Documents\POO\ilustra\bin\Debug\netcoreapp3.1\ilustra.exe
+C:\Users\Rojo_\Documents\POO\ilustra\bin\Debug\netcoreapp3.1\ilustra.deps.json
+C:\Users\Rojo_\Documents\POO\ilustra\bin\Debug\netcoreapp3.1\ilustra.runtimeconfig.json
+C:\Users\Rojo_\Documents\POO\ilustra\bin\Debug\netcoreapp3.1\ilustra.runtimeconfig.dev.json
+C:\Users\Rojo_\Documents\POO\ilustra\bin\Debug\netcoreapp3.1\ilustra.dll
+C:\Users\Rojo_\Documents\POO\ilustra\bin\Debug\netcoreapp3.1\ilustra.pdb
+C:\Users\Rojo_\Documents\POO\ilustra\obj\Debug\netcoreapp3.1\ilustra.dll
+C:\Users\Rojo_\Documents\POO\ilustra\obj\Debug\netcoreapp3.1\ilustra.pdb

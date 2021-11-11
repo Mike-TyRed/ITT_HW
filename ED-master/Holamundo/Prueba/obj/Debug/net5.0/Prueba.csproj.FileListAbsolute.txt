@@ -1,0 +1,16 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\bin\Debug\net5.0\Prueba.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\bin\Debug\net5.0\Prueba.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\bin\Debug\net5.0\Prueba.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\bin\Debug\net5.0\Prueba.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\bin\Debug\net5.0\Prueba.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\bin\Debug\net5.0\ref\Prueba.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\bin\Debug\net5.0\Prueba.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\obj\Debug\net5.0\Prueba.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\obj\Debug\net5.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\obj\Debug\net5.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\obj\Debug\net5.0\Prueba.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\obj\Debug\net5.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\obj\Debug\net5.0\Prueba.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\obj\Debug\net5.0\ref\Prueba.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\obj\Debug\net5.0\Prueba.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\Holamundo\Prueba\obj\Debug\net5.0\Prueba.genruntimeconfig.cache

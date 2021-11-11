@@ -1,0 +1,3 @@
+C:\Users\Rojo_\Documents\POO\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.csprojAssemblyReference.cache
+C:\Users\Rojo_\Documents\POO\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.AssemblyInfoInputs.cache
+C:\Users\Rojo_\Documents\POO\Alumnos\obj\Debug\netcoreapp3.1\Alumnos.AssemblyInfo.cs

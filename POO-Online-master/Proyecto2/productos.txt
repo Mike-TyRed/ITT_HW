@@ -1,0 +1,14 @@
+1|Huawei|4000|Celular|10|
+3|Motorola|5500|Celular|10|
+5|SkullCandy H6|2000|Audífonos|10|
+5|SkullCandy H6|2000|Audífonos|10|
+8|Funko Pop Kratos GOW4|300|Juguetes|100|
+117|Spartan Armor|10000|Equipo|1000|
+117|Spartan Armor|10000|Equipo|1000|
+296|Old Man Logan|80|Cómics |85|
+asd|hola|10|awa|100|
+10|SmarTV|3500|Tecnología|20|
+9|Riko Pollo|5|Ingredientes|100|
+741|aguacate|15|alimentos|23|
+741|aguacate|15|alimentos|23|
+rico pollo|123|5|alimentos|15|

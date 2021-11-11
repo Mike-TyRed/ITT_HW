@@ -1,0 +1,2 @@
+1|Huawei|4000|Celular|10|
+3|Motorola|5500|Celular|10|

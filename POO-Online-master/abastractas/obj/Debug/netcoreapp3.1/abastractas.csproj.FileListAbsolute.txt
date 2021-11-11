@@ -1,0 +1,11 @@
+C:\Users\Rojo_\Documents\POO\abastractas\bin\Debug\netcoreapp3.1\abastractas.exe
+C:\Users\Rojo_\Documents\POO\abastractas\bin\Debug\netcoreapp3.1\abastractas.deps.json
+C:\Users\Rojo_\Documents\POO\abastractas\bin\Debug\netcoreapp3.1\abastractas.runtimeconfig.json
+C:\Users\Rojo_\Documents\POO\abastractas\bin\Debug\netcoreapp3.1\abastractas.runtimeconfig.dev.json
+C:\Users\Rojo_\Documents\POO\abastractas\bin\Debug\netcoreapp3.1\abastractas.dll
+C:\Users\Rojo_\Documents\POO\abastractas\bin\Debug\netcoreapp3.1\abastractas.pdb
+C:\Users\Rojo_\Documents\POO\abastractas\obj\Debug\netcoreapp3.1\abastractas.csprojAssemblyReference.cache
+C:\Users\Rojo_\Documents\POO\abastractas\obj\Debug\netcoreapp3.1\abastractas.AssemblyInfoInputs.cache
+C:\Users\Rojo_\Documents\POO\abastractas\obj\Debug\netcoreapp3.1\abastractas.AssemblyInfo.cs
+C:\Users\Rojo_\Documents\POO\abastractas\obj\Debug\netcoreapp3.1\abastractas.dll
+C:\Users\Rojo_\Documents\POO\abastractas\obj\Debug\netcoreapp3.1\abastractas.pdb

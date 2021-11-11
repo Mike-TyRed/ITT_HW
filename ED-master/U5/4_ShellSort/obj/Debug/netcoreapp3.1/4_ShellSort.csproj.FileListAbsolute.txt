@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\bin\Debug\netcoreapp3.1\4_ShellSort.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\bin\Debug\netcoreapp3.1\4_ShellSort.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\bin\Debug\netcoreapp3.1\4_ShellSort.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\bin\Debug\netcoreapp3.1\4_ShellSort.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\bin\Debug\netcoreapp3.1\4_ShellSort.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\bin\Debug\netcoreapp3.1\4_ShellSort.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\obj\Debug\netcoreapp3.1\4_ShellSort.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\obj\Debug\netcoreapp3.1\4_ShellSort.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\obj\Debug\netcoreapp3.1\4_ShellSort.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\obj\Debug\netcoreapp3.1\4_ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\obj\Debug\netcoreapp3.1\4_ShellSort.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\obj\Debug\netcoreapp3.1\4_ShellSort.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U5\4_ShellSort\obj\Debug\netcoreapp3.1\4_ShellSort.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\bin\Debug\netcoreapp3.1\4_ColasSimples.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\bin\Debug\netcoreapp3.1\4_ColasSimples.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\bin\Debug\netcoreapp3.1\4_ColasSimples.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\bin\Debug\netcoreapp3.1\4_ColasSimples.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\bin\Debug\netcoreapp3.1\4_ColasSimples.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\bin\Debug\netcoreapp3.1\4_ColasSimples.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\obj\Debug\netcoreapp3.1\4_ColasSimples.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\obj\Debug\netcoreapp3.1\4_ColasSimples.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\obj\Debug\netcoreapp3.1\4_ColasSimples.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\obj\Debug\netcoreapp3.1\4_ColasSimples.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\obj\Debug\netcoreapp3.1\4_ColasSimples.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\obj\Debug\netcoreapp3.1\4_ColasSimples.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ColasSimples\obj\Debug\netcoreapp3.1\4_ColasSimples.genruntimeconfig.cache

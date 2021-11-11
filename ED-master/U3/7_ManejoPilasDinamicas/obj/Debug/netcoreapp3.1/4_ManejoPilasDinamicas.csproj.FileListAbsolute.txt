@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\bin\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\bin\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\bin\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\bin\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\bin\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\bin\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\obj\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\obj\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\obj\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\obj\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\obj\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\obj\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\4_ManejoPilasDinamicas\obj\Debug\netcoreapp3.1\4_ManejoPilasDinamicas.genruntimeconfig.cache

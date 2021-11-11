@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "13_RecInd_multi/1.0.0": {
+        "runtime": {
+          "13_RecInd_multi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13_RecInd_multi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

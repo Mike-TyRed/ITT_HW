@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\bin\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\bin\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\bin\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\bin\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\bin\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\bin\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\obj\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\obj\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\obj\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\obj\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\obj\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\obj\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\12_ListaEnlazadaSimple-LisT\obj\Debug\netcoreapp3.1\12_ListaEnlazadaSimple-LisT.genruntimeconfig.cache

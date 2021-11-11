@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\bin\Debug\netcoreapp3.1\13_ReInd_NumNegPos.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\bin\Debug\netcoreapp3.1\13_ReInd_NumNegPos.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\bin\Debug\netcoreapp3.1\13_ReInd_NumNegPos.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\bin\Debug\netcoreapp3.1\13_ReInd_NumNegPos.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\bin\Debug\netcoreapp3.1\13_ReInd_NumNegPos.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\bin\Debug\netcoreapp3.1\13_ReInd_NumNegPos.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\obj\Debug\netcoreapp3.1\13_ReInd_NumNegPos.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\obj\Debug\netcoreapp3.1\13_ReInd_NumNegPos.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\obj\Debug\netcoreapp3.1\13_ReInd_NumNegPos.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\obj\Debug\netcoreapp3.1\13_ReInd_NumNegPos.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\obj\Debug\netcoreapp3.1\13_ReInd_NumNegPos.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\obj\Debug\netcoreapp3.1\13_ReInd_NumNegPos.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_ReInd_NumNegPos\obj\Debug\netcoreapp3.1\13_ReInd_NumNegPos.genruntimeconfig.cache

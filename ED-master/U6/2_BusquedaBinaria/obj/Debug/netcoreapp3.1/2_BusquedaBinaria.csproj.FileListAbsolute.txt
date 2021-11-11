@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\bin\Debug\netcoreapp3.1\2_BusquedaBinaria.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\bin\Debug\netcoreapp3.1\2_BusquedaBinaria.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\bin\Debug\netcoreapp3.1\2_BusquedaBinaria.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\bin\Debug\netcoreapp3.1\2_BusquedaBinaria.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\bin\Debug\netcoreapp3.1\2_BusquedaBinaria.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\bin\Debug\netcoreapp3.1\2_BusquedaBinaria.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\obj\Debug\netcoreapp3.1\2_BusquedaBinaria.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\obj\Debug\netcoreapp3.1\2_BusquedaBinaria.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\obj\Debug\netcoreapp3.1\2_BusquedaBinaria.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\obj\Debug\netcoreapp3.1\2_BusquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\obj\Debug\netcoreapp3.1\2_BusquedaBinaria.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\obj\Debug\netcoreapp3.1\2_BusquedaBinaria.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\2_BusquedaBinaria\obj\Debug\netcoreapp3.1\2_BusquedaBinaria.genruntimeconfig.cache

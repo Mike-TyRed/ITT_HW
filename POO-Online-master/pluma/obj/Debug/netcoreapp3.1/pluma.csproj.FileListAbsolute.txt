@@ -1,0 +1,11 @@
+C:\Users\Rojo_\Documents\POO\pluma\bin\Debug\netcoreapp3.1\pluma.exe
+C:\Users\Rojo_\Documents\POO\pluma\bin\Debug\netcoreapp3.1\pluma.deps.json
+C:\Users\Rojo_\Documents\POO\pluma\bin\Debug\netcoreapp3.1\pluma.runtimeconfig.json
+C:\Users\Rojo_\Documents\POO\pluma\bin\Debug\netcoreapp3.1\pluma.runtimeconfig.dev.json
+C:\Users\Rojo_\Documents\POO\pluma\bin\Debug\netcoreapp3.1\pluma.dll
+C:\Users\Rojo_\Documents\POO\pluma\bin\Debug\netcoreapp3.1\pluma.pdb
+C:\Users\Rojo_\Documents\POO\pluma\obj\Debug\netcoreapp3.1\pluma.csprojAssemblyReference.cache
+C:\Users\Rojo_\Documents\POO\pluma\obj\Debug\netcoreapp3.1\pluma.AssemblyInfoInputs.cache
+C:\Users\Rojo_\Documents\POO\pluma\obj\Debug\netcoreapp3.1\pluma.AssemblyInfo.cs
+C:\Users\Rojo_\Documents\POO\pluma\obj\Debug\netcoreapp3.1\pluma.dll
+C:\Users\Rojo_\Documents\POO\pluma\obj\Debug\netcoreapp3.1\pluma.pdb

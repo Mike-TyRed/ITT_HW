@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="tablaprueba1" Class="ConectarLectorDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=desktop-597bori;Initial Catalog=tablaprueba1;Integrated Security=True" SettingsObjectName="Capa_Negocio.Properties.Settings" SettingsPropertyName="tablaprueba1ConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Users" Member="Users">
+    <Type Name="Users">
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="LoginName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Telefono" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Cargo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Users_Pedido" Member="Pedido" ThisKey="UserID" OtherKey="UserID" Type="Pedido" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Libros" Member="Libros">
+    <Type Name="Libros">
+      <Column Name="IDlibro" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Titulo" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Autor" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Edicion" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Genero" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Association Name="Libros_Existencia" Member="Existencia" ThisKey="IDlibro" OtherKey="IDlibro" Type="Existencia" Cardinality="One" />
+      <Association Name="Libros_Pedido" Member="Pedido" ThisKey="IDlibro" OtherKey="IDlibro" Type="Pedido" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Existencia" Member="Existencia">
+    <Type Name="Existencia">
+      <Column Name="IDlibro" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Existentes" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Disponibles" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Rentados" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Libros_Existencia" Member="Libros" ThisKey="IDlibro" OtherKey="IDlibro" Type="Libros" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Pedido" Member="Pedido">
+    <Type Name="Pedido">
+      <Column Name="IDpedido" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDlibro" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FechaPed" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="FechaDev" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Estado" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Association Name="Libros_Pedido" Member="Libros" ThisKey="IDlibro" OtherKey="IDlibro" Type="Libros" IsForeignKey="true" />
+      <Association Name="Users_Pedido" Member="Users" ThisKey="UserID" OtherKey="UserID" Type="Users" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.ActualizarLibro" Method="ActualizarLibro">
+    <Parameter Name="Titulo" Parameter="titulo" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Autor" Parameter="autor" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Edicion" Parameter="edicion" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Genero" Parameter="genero" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="IDlibro" Parameter="iDlibro" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ActualizarUsuario" Method="ActualizarUsuario">
+    <Parameter Name="LoginName" Parameter="loginName" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Telefono" Parameter="telefono" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="password" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="UserID" Parameter="userID" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.AllGeneros" Method="AllGeneros">
+    <ElementType Name="AllGenerosResult">
+      <Column Name="Genero" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.EliminarLibro" Method="EliminarLibro">
+    <Parameter Name="IDlibro" Parameter="iDlibro" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.EliminarUsuario" Method="EliminarUsuario">
+    <Parameter Name="UserID" Parameter="userID" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.InsertarLibro" Method="InsertarLibro">
+    <Parameter Name="Titulo" Parameter="titulo" Type="System.String" DbType="VarChar(100)" />
+    <Parameter Name="Autor" Parameter="autor" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Edicion" Parameter="edicion" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Genero" Parameter="genero" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.InsertarUsuario" Method="InsertarUsuario">
+    <Parameter Name="LoginName" Parameter="loginName" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="VarChar(100)" />
+    <Parameter Name="Telefono" Parameter="telefono" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="password" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Cargo" Parameter="cargo" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.MostrarDisponibles" Method="MostrarDisponibles">
+    <ElementType Name="MostrarDisponiblesResult">
+      <Column Name="Disponibles" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.MostrarGeneros" Method="MostrarGeneros">
+    <Parameter Name="Genero" Parameter="genero" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="MostrarGenerosResult">
+      <Column Name="IDlibro" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Titulo" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Autor" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Edicion" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Genero" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.MostrarLibros" Method="MostrarLibros">
+    <ElementType Name="MostrarLibrosResult">
+      <Column Name="IDlibro" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Titulo" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Autor" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Edicion" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Genero" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.MostrarTítulos" Method="MostrarTítulos">
+    <Parameter Name="Titulo" Parameter="titulo" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="MostrarTítulosResult">
+      <Column Name="IDlibro" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Titulo" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Autor" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Edicion" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Genero" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.MostrarUsuario" Method="MostrarUsuario">
+    <ElementType Name="MostrarUsuarioResult">
+      <Column Name="UserID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="LoginName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Telefono" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Cargo" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.Stock" Method="Stock">
+    <Parameter Name="Existentes" Parameter="existentes" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Disponibles" Parameter="disponibles" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Rentados" Parameter="rentados" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.MostrarPedidos" Method="MostrarPedidos">
+    <ElementType Name="MostrarPedidosResult">
+      <Column Name="IDpedido" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDlibro" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FechaPed" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="FechaDev" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Estado" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.Devolucion" Method="Devolucion">
+    <Parameter Name="Disponibles" Parameter="disponibles" Type="System.Int32" DbType="Int" />
+    <Parameter Name="IDlibro" Parameter="iDlibro" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.Estados" Method="Estados">
+    <Parameter Name="Estado" Parameter="estado" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="IDpedido" Parameter="iDpedido" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ModificarDisponible" Method="ModificarDisponible">
+    <Parameter Name="Disponibles" Parameter="disponibles" Type="System.Int32" DbType="Int" />
+    <Parameter Name="IDlibro" Parameter="iDlibro" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.NuevoPedido" Method="NuevoPedido">
+    <Parameter Name="UserID" Parameter="userID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="IDlibro" Parameter="iDlibro" Type="System.Int32" DbType="Int" />
+    <Parameter Name="FechaPed" Parameter="fechaPed" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="FechaDev" Parameter="fechaDev" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Estado" Parameter="estado" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.getIDuser" Method="getIDuser">
+    <Parameter Name="LoginName" Parameter="loginName" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.VerDisponiblesEsp" Method="VerDisponiblesEsp">
+    <Parameter Name="IDlibro" Parameter="iDlibro" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

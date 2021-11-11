@@ -1,0 +1,13 @@
+C:\Users\Rojo_\Documents\POO\Edad\bin\Debug\netcoreapp3.1\Edad.exe
+C:\Users\Rojo_\Documents\POO\Edad\bin\Debug\netcoreapp3.1\Edad.deps.json
+C:\Users\Rojo_\Documents\POO\Edad\bin\Debug\netcoreapp3.1\Edad.runtimeconfig.json
+C:\Users\Rojo_\Documents\POO\Edad\bin\Debug\netcoreapp3.1\Edad.runtimeconfig.dev.json
+C:\Users\Rojo_\Documents\POO\Edad\bin\Debug\netcoreapp3.1\Edad.dll
+C:\Users\Rojo_\Documents\POO\Edad\bin\Debug\netcoreapp3.1\Edad.pdb
+C:\Users\Rojo_\Documents\POO\Edad\obj\Debug\netcoreapp3.1\Edad.csprojAssemblyReference.cache
+C:\Users\Rojo_\Documents\POO\Edad\obj\Debug\netcoreapp3.1\Edad.csproj.CoreCompileInputs.cache
+C:\Users\Rojo_\Documents\POO\Edad\obj\Debug\netcoreapp3.1\Edad.AssemblyInfoInputs.cache
+C:\Users\Rojo_\Documents\POO\Edad\obj\Debug\netcoreapp3.1\Edad.AssemblyInfo.cs
+C:\Users\Rojo_\Documents\POO\Edad\obj\Debug\netcoreapp3.1\Edad.dll
+C:\Users\Rojo_\Documents\POO\Edad\obj\Debug\netcoreapp3.1\Edad.pdb
+C:\Users\Rojo_\Documents\POO\Edad\obj\Debug\netcoreapp3.1\Edad.genruntimeconfig.cache

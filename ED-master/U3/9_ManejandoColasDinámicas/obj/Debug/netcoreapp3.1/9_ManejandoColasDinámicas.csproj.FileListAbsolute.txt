@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\obj\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\obj\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\obj\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\obj\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\bin\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\bin\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\bin\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\bin\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\bin\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\bin\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\obj\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\obj\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U3\9_ManejandoColasDinámicas\obj\Debug\netcoreapp3.1\9_ManejandoColasDinámicas.genruntimeconfig.cache

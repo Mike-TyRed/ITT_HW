@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\bin\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\bin\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\bin\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\bin\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\bin\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\bin\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\obj\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\obj\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\obj\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\obj\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\obj\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\obj\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\3-Uso_de_Arreglos_Bidimensionales\obj\Debug\netcoreapp3.1\3-Uso_de_Arreglos_Bidimensionales.genruntimeconfig.cache

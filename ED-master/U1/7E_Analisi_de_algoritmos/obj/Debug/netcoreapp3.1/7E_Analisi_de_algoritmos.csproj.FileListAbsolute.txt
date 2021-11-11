@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\bin\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\bin\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\bin\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\bin\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\bin\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\bin\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\obj\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\obj\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\obj\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\obj\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\obj\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\obj\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\7E_Analisi_de_algoritmos\obj\Debug\netcoreapp3.1\7E_Analisi_de_algoritmos.genruntimeconfig.cache

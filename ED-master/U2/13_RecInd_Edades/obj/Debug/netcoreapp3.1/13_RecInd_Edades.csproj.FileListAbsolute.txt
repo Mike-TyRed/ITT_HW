@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\bin\Debug\netcoreapp3.1\13_RecInd_Edades.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\bin\Debug\netcoreapp3.1\13_RecInd_Edades.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\bin\Debug\netcoreapp3.1\13_RecInd_Edades.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\bin\Debug\netcoreapp3.1\13_RecInd_Edades.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\bin\Debug\netcoreapp3.1\13_RecInd_Edades.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\bin\Debug\netcoreapp3.1\13_RecInd_Edades.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\obj\Debug\netcoreapp3.1\13_RecInd_Edades.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\obj\Debug\netcoreapp3.1\13_RecInd_Edades.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\obj\Debug\netcoreapp3.1\13_RecInd_Edades.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\obj\Debug\netcoreapp3.1\13_RecInd_Edades.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\obj\Debug\netcoreapp3.1\13_RecInd_Edades.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\obj\Debug\netcoreapp3.1\13_RecInd_Edades.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\13_RecInd_Edades\obj\Debug\netcoreapp3.1\13_RecInd_Edades.genruntimeconfig.cache

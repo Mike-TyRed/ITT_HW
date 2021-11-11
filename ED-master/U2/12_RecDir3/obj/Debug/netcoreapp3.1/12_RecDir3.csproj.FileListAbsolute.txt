@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\obj\Debug\netcoreapp3.1\12_RecDir3.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\obj\Debug\netcoreapp3.1\12_RecDir3.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\obj\Debug\netcoreapp3.1\12_RecDir3.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\obj\Debug\netcoreapp3.1\12_RecDir3.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\bin\Debug\netcoreapp3.1\12_RecDir3.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\bin\Debug\netcoreapp3.1\12_RecDir3.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\bin\Debug\netcoreapp3.1\12_RecDir3.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\bin\Debug\netcoreapp3.1\12_RecDir3.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\bin\Debug\netcoreapp3.1\12_RecDir3.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\bin\Debug\netcoreapp3.1\12_RecDir3.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\obj\Debug\netcoreapp3.1\12_RecDir3.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\obj\Debug\netcoreapp3.1\12_RecDir3.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\12_RecDir3\obj\Debug\netcoreapp3.1\12_RecDir3.genruntimeconfig.cache

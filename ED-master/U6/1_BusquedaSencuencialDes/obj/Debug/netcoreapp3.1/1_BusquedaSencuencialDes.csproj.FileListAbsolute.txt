@@ -1,0 +1,13 @@
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\bin\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.exe
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\bin\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.deps.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\bin\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.runtimeconfig.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\bin\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.runtimeconfig.dev.json
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\bin\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\bin\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\obj\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.csprojAssemblyReference.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\obj\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.AssemblyInfoInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\obj\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.AssemblyInfo.cs
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\obj\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\obj\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.dll
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\obj\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.pdb
+C:\Users\rojo_\Documents\GitHub\S3-Estructura-de-Datos\U6\1_BusquedaSencuencialDes\obj\Debug\netcoreapp3.1\1_BusquedaSencuencialDes.genruntimeconfig.cache
