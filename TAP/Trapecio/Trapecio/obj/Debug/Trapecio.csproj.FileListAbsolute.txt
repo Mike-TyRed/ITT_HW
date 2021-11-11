@@ -1,0 +1,7 @@
+C:\Users\PRIDE RACOON\source\repos\Trapecio\Trapecio\bin\Debug\Trapecio.exe.config
+C:\Users\PRIDE RACOON\source\repos\Trapecio\Trapecio\bin\Debug\Trapecio.exe
+C:\Users\PRIDE RACOON\source\repos\Trapecio\Trapecio\bin\Debug\Trapecio.pdb
+C:\Users\PRIDE RACOON\source\repos\Trapecio\Trapecio\obj\Debug\Trapecio.csprojAssemblyReference.cache
+C:\Users\PRIDE RACOON\source\repos\Trapecio\Trapecio\obj\Debug\Trapecio.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RACOON\source\repos\Trapecio\Trapecio\obj\Debug\Trapecio.exe
+C:\Users\PRIDE RACOON\source\repos\Trapecio\Trapecio\obj\Debug\Trapecio.pdb

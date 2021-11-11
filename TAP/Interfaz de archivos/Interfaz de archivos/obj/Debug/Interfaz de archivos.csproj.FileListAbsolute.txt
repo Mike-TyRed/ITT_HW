@@ -1,0 +1,11 @@
+C:\Users\PRIDE RACOON\source\repos\Interfaz de archivos\Interfaz de archivos\obj\Debug\Interfaz de archivos.csproj.AssemblyReference.cache
+C:\Users\PRIDE RACOON\source\repos\Interfaz de archivos\Interfaz de archivos\obj\Debug\Interfaz_de_archivos.a.resources
+C:\Users\PRIDE RACOON\source\repos\Interfaz de archivos\Interfaz de archivos\obj\Debug\Interfaz_de_archivos.Form1.resources
+C:\Users\PRIDE RACOON\source\repos\Interfaz de archivos\Interfaz de archivos\obj\Debug\Interfaz_de_archivos.Properties.Resources.resources
+C:\Users\PRIDE RACOON\source\repos\Interfaz de archivos\Interfaz de archivos\obj\Debug\Interfaz de archivos.csproj.GenerateResource.cache
+C:\Users\PRIDE RACOON\source\repos\Interfaz de archivos\Interfaz de archivos\obj\Debug\Interfaz de archivos.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RACOON\source\repos\Interfaz de archivos\Interfaz de archivos\bin\Debug\Interfaz de archivos.exe.config
+C:\Users\PRIDE RACOON\source\repos\Interfaz de archivos\Interfaz de archivos\bin\Debug\Interfaz de archivos.exe
+C:\Users\PRIDE RACOON\source\repos\Interfaz de archivos\Interfaz de archivos\bin\Debug\Interfaz de archivos.pdb
+C:\Users\PRIDE RACOON\source\repos\Interfaz de archivos\Interfaz de archivos\obj\Debug\Interfaz de archivos.exe
+C:\Users\PRIDE RACOON\source\repos\Interfaz de archivos\Interfaz de archivos\obj\Debug\Interfaz de archivos.pdb

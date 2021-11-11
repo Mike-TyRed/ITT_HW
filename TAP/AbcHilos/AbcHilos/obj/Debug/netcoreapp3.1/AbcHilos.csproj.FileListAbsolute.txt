@@ -1,0 +1,13 @@
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\bin\Debug\netcoreapp3.1\AbcHilos.exe
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\bin\Debug\netcoreapp3.1\AbcHilos.deps.json
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\bin\Debug\netcoreapp3.1\AbcHilos.runtimeconfig.json
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\bin\Debug\netcoreapp3.1\AbcHilos.runtimeconfig.dev.json
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\bin\Debug\netcoreapp3.1\AbcHilos.dll
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\bin\Debug\netcoreapp3.1\AbcHilos.pdb
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\obj\Debug\netcoreapp3.1\AbcHilos.csprojAssemblyReference.cache
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\obj\Debug\netcoreapp3.1\AbcHilos.AssemblyInfoInputs.cache
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\obj\Debug\netcoreapp3.1\AbcHilos.AssemblyInfo.cs
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\obj\Debug\netcoreapp3.1\AbcHilos.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\obj\Debug\netcoreapp3.1\AbcHilos.dll
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\obj\Debug\netcoreapp3.1\AbcHilos.pdb
+C:\Users\PRIDE RACOON\source\repos\AbcHilos\AbcHilos\obj\Debug\netcoreapp3.1\AbcHilos.genruntimeconfig.cache

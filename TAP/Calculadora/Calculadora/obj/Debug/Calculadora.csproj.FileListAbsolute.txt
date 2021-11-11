@@ -1,0 +1,10 @@
+C:\Users\rojo_\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\rojo_\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Base.resources
+C:\Users\rojo_\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\rojo_\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\rojo_\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\rojo_\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\rojo_\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\rojo_\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\rojo_\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

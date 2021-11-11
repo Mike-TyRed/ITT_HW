@@ -1,0 +1,10 @@
+C:\Users\rojo_\source\repos\Líneas1\Líneas1\bin\Debug\Líneas1.exe.config
+C:\Users\rojo_\source\repos\Líneas1\Líneas1\bin\Debug\Líneas1.exe
+C:\Users\rojo_\source\repos\Líneas1\Líneas1\bin\Debug\Líneas1.pdb
+C:\Users\rojo_\source\repos\Líneas1\Líneas1\obj\Debug\Líneas1.csprojAssemblyReference.cache
+C:\Users\rojo_\source\repos\Líneas1\Líneas1\obj\Debug\Líneas1.Form1.resources
+C:\Users\rojo_\source\repos\Líneas1\Líneas1\obj\Debug\Líneas1.Properties.Resources.resources
+C:\Users\rojo_\source\repos\Líneas1\Líneas1\obj\Debug\Líneas1.csproj.GenerateResource.cache
+C:\Users\rojo_\source\repos\Líneas1\Líneas1\obj\Debug\Líneas1.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\source\repos\Líneas1\Líneas1\obj\Debug\Líneas1.exe
+C:\Users\rojo_\source\repos\Líneas1\Líneas1\obj\Debug\Líneas1.pdb

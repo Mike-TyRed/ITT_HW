@@ -1,0 +1,10 @@
+C:\Users\PRIDE RACOON\source\repos\Procedimientos_Almacenados\Procedimientos_Almacenados\bin\Debug\Procedimientos_Almacenados.exe.config
+C:\Users\PRIDE RACOON\source\repos\Procedimientos_Almacenados\Procedimientos_Almacenados\bin\Debug\Procedimientos_Almacenados.exe
+C:\Users\PRIDE RACOON\source\repos\Procedimientos_Almacenados\Procedimientos_Almacenados\bin\Debug\Procedimientos_Almacenados.pdb
+C:\Users\PRIDE RACOON\source\repos\Procedimientos_Almacenados\Procedimientos_Almacenados\obj\Debug\Procedimientos_Almacenados.csprojAssemblyReference.cache
+C:\Users\PRIDE RACOON\source\repos\Procedimientos_Almacenados\Procedimientos_Almacenados\obj\Debug\Procedimientos_Almacenados.Form1.resources
+C:\Users\PRIDE RACOON\source\repos\Procedimientos_Almacenados\Procedimientos_Almacenados\obj\Debug\Procedimientos_Almacenados.Properties.Resources.resources
+C:\Users\PRIDE RACOON\source\repos\Procedimientos_Almacenados\Procedimientos_Almacenados\obj\Debug\Procedimientos_Almacenados.csproj.GenerateResource.cache
+C:\Users\PRIDE RACOON\source\repos\Procedimientos_Almacenados\Procedimientos_Almacenados\obj\Debug\Procedimientos_Almacenados.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RACOON\source\repos\Procedimientos_Almacenados\Procedimientos_Almacenados\obj\Debug\Procedimientos_Almacenados.exe
+C:\Users\PRIDE RACOON\source\repos\Procedimientos_Almacenados\Procedimientos_Almacenados\obj\Debug\Procedimientos_Almacenados.pdb

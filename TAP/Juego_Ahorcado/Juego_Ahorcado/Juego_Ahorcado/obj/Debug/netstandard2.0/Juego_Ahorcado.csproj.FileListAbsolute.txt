@@ -1,0 +1,14 @@
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\bin\Debug\netstandard2.0\Juego_Ahorcado.deps.json
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\bin\Debug\netstandard2.0\Juego_Ahorcado.dll
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\bin\Debug\netstandard2.0\ref\Juego_Ahorcado.dll
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\bin\Debug\netstandard2.0\Juego_Ahorcado.pdb
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\obj\Debug\netstandard2.0\Juego_Ahorcado.csproj.AssemblyReference.cache
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\obj\Debug\netstandard2.0\Juego_Ahorcado.AssemblyInfoInputs.cache
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\obj\Debug\netstandard2.0\Juego_Ahorcado.AssemblyInfo.cs
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\obj\Debug\netstandard2.0\Juego_Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\obj\Debug\netstandard2.0\Juego_Ahorcado.dll
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\obj\Debug\netstandard2.0\ref\Juego_Ahorcado.dll
+C:\Users\PRIDE RACOON\source\repos\Juego_Ahorcado\Juego_Ahorcado\Juego_Ahorcado\obj\Debug\netstandard2.0\Juego_Ahorcado.pdb

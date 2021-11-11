@@ -1,0 +1,15 @@
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\bin\Debug\netcoreapp3.1\Procesos.exe
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\bin\Debug\netcoreapp3.1\Procesos.deps.json
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\bin\Debug\netcoreapp3.1\Procesos.runtimeconfig.json
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\bin\Debug\netcoreapp3.1\Procesos.runtimeconfig.dev.json
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\bin\Debug\netcoreapp3.1\Procesos.dll
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\bin\Debug\netcoreapp3.1\Procesos.pdb
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\obj\Debug\netcoreapp3.1\Procesos.csprojAssemblyReference.cache
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\obj\Debug\netcoreapp3.1\Procesos.Form1.resources
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\obj\Debug\netcoreapp3.1\Procesos.csproj.GenerateResource.cache
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\obj\Debug\netcoreapp3.1\Procesos.AssemblyInfoInputs.cache
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\obj\Debug\netcoreapp3.1\Procesos.AssemblyInfo.cs
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\obj\Debug\netcoreapp3.1\Procesos.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\obj\Debug\netcoreapp3.1\Procesos.dll
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\obj\Debug\netcoreapp3.1\Procesos.pdb
+C:\Users\PRIDE RACOON\source\repos\Procesos\Procesos\obj\Debug\netcoreapp3.1\Procesos.genruntimeconfig.cache

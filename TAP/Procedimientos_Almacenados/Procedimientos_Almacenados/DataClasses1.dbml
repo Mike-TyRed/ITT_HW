@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="B" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-597BORI;Initial Catalog=B;Integrated Security=True" SettingsObjectName="Procedimientos_Almacenados.Properties.Settings" SettingsPropertyName="BConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Usuario" Member="Usuario">
+    <Type Name="Usuario">
+      <Column Name="IDusuario" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Telf" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Contraseña" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.DeletUser" Method="DeletUser">
+    <Parameter Name="IDusuario" Parameter="iDusuario" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.InsertarUsuario" Method="InsertarUsuario">
+    <Parameter Name="Nombre" Parameter="nombre" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Telf" Parameter="telf" Type="System.String" DbType="VarChar(12)" />
+    <Parameter Name="Contraseña" Parameter="contraseña" Type="System.String" DbType="VarChar(12)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.LeerUser" Method="LeerUser">
+    <ElementType Name="LeerUserResult">
+      <Column Name="IDusuario" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Telf" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Contraseña" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.UpUser" Method="UpUser">
+    <Parameter Name="Nombre" Parameter="nombre" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Telf" Parameter="telf" Type="System.String" DbType="VarChar(12)" />
+    <Parameter Name="Contraseña" Parameter="contraseña" Type="System.String" DbType="VarChar(12)" />
+    <Parameter Name="IDusuario" Parameter="iDusuario" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

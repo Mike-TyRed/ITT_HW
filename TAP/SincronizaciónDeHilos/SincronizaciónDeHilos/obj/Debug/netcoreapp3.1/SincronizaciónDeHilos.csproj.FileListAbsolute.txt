@@ -1,0 +1,13 @@
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\bin\Debug\netcoreapp3.1\SincronizaciónDeHilos.exe
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\bin\Debug\netcoreapp3.1\SincronizaciónDeHilos.deps.json
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\bin\Debug\netcoreapp3.1\SincronizaciónDeHilos.runtimeconfig.json
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\bin\Debug\netcoreapp3.1\SincronizaciónDeHilos.runtimeconfig.dev.json
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\bin\Debug\netcoreapp3.1\SincronizaciónDeHilos.dll
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\bin\Debug\netcoreapp3.1\SincronizaciónDeHilos.pdb
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\obj\Debug\netcoreapp3.1\SincronizaciónDeHilos.csprojAssemblyReference.cache
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\obj\Debug\netcoreapp3.1\SincronizaciónDeHilos.AssemblyInfoInputs.cache
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\obj\Debug\netcoreapp3.1\SincronizaciónDeHilos.AssemblyInfo.cs
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\obj\Debug\netcoreapp3.1\SincronizaciónDeHilos.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\obj\Debug\netcoreapp3.1\SincronizaciónDeHilos.dll
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\obj\Debug\netcoreapp3.1\SincronizaciónDeHilos.pdb
+C:\Users\PRIDE RACOON\source\repos\SincronizaciónDeHilos\SincronizaciónDeHilos\obj\Debug\netcoreapp3.1\SincronizaciónDeHilos.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\rojo_\source\repos\Casa de cambio\Casa de cambio\bin\Debug\Casa de cambio.exe.config
+C:\Users\rojo_\source\repos\Casa de cambio\Casa de cambio\bin\Debug\Casa de cambio.exe
+C:\Users\rojo_\source\repos\Casa de cambio\Casa de cambio\bin\Debug\Casa de cambio.pdb
+C:\Users\rojo_\source\repos\Casa de cambio\Casa de cambio\obj\Debug\Casa de cambio.csprojAssemblyReference.cache
+C:\Users\rojo_\source\repos\Casa de cambio\Casa de cambio\obj\Debug\Casa_de_cambio.Form1.resources
+C:\Users\rojo_\source\repos\Casa de cambio\Casa de cambio\obj\Debug\Casa_de_cambio.Properties.Resources.resources
+C:\Users\rojo_\source\repos\Casa de cambio\Casa de cambio\obj\Debug\Casa de cambio.csproj.GenerateResource.cache
+C:\Users\rojo_\source\repos\Casa de cambio\Casa de cambio\obj\Debug\Casa de cambio.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\source\repos\Casa de cambio\Casa de cambio\obj\Debug\Casa de cambio.exe
+C:\Users\rojo_\source\repos\Casa de cambio\Casa de cambio\obj\Debug\Casa de cambio.pdb

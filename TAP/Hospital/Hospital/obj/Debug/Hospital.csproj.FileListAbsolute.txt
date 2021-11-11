@@ -1,0 +1,10 @@
+C:\Users\rojo_\source\repos\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Users\rojo_\source\repos\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+C:\Users\rojo_\source\repos\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\rojo_\source\repos\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\rojo_\source\repos\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\source\repos\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\rojo_\source\repos\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\rojo_\source\repos\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\rojo_\source\repos\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\rojo_\source\repos\Hospital\Hospital\obj\Debug\Hospital.pdb

@@ -1,0 +1,13 @@
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\bin\Debug\netstandard2.0\IMC Calculator.deps.json
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\bin\Debug\netstandard2.0\IMC Calculator.dll
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\bin\Debug\netstandard2.0\ref\IMC Calculator.dll
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\bin\Debug\netstandard2.0\IMC Calculator.pdb
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\obj\Debug\netstandard2.0\IMC Calculator.AssemblyInfoInputs.cache
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\obj\Debug\netstandard2.0\IMC Calculator.AssemblyInfo.cs
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\obj\Debug\netstandard2.0\IMC Calculator.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\obj\Debug\netstandard2.0\IMC Calculator.dll
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\obj\Debug\netstandard2.0\ref\IMC Calculator.dll
+C:\Users\PRIDE RACOON\source\repos\IMC Calculator\IMC Calculator\IMC Calculator\obj\Debug\netstandard2.0\IMC Calculator.pdb

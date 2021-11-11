@@ -1,0 +1,10 @@
+C:\Users\rojo_\source\repos\Semáforo\Semáforo\bin\Debug\Semáforo.exe.config
+C:\Users\rojo_\source\repos\Semáforo\Semáforo\bin\Debug\Semáforo.exe
+C:\Users\rojo_\source\repos\Semáforo\Semáforo\bin\Debug\Semáforo.pdb
+C:\Users\rojo_\source\repos\Semáforo\Semáforo\obj\Debug\Semáforo.csprojAssemblyReference.cache
+C:\Users\rojo_\source\repos\Semáforo\Semáforo\obj\Debug\Semáforo.Form1.resources
+C:\Users\rojo_\source\repos\Semáforo\Semáforo\obj\Debug\Semáforo.Properties.Resources.resources
+C:\Users\rojo_\source\repos\Semáforo\Semáforo\obj\Debug\Semáforo.csproj.GenerateResource.cache
+C:\Users\rojo_\source\repos\Semáforo\Semáforo\obj\Debug\Semáforo.csproj.CoreCompileInputs.cache
+C:\Users\rojo_\source\repos\Semáforo\Semáforo\obj\Debug\Semáforo.exe
+C:\Users\rojo_\source\repos\Semáforo\Semáforo\obj\Debug\Semáforo.pdb
