@@ -1,1 +1,3 @@
-# S3-Estructura-de-Datos
+# Tercer Semestre
+Estructura de Datos,
+Profa: Claudia Negrete
