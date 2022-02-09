@@ -3,6 +3,8 @@
 
 ### Clases de programación
 
-**Programación Orientada a Objetos:** Mario Garcia Valdez /n
-**Estructura de Datos:** Claudia Negrete Sanchez /n
+**Programación Orientada a Objetos:** Mario Garcia Valdez
+
+**Estructura de Datos:** Claudia Negrete Sanchez
+
 **Tópicos Avanzados de Programación:** Cynthia Ivette Miramontes Ortega
