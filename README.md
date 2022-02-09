@@ -3,4 +3,4 @@
 
 ### Clases de programación
 
-**Programación Orientada a Objetos: ** Mario Garcia Valdez
+**Programación Orientada a Objetos:** Mario Garcia Valdez
