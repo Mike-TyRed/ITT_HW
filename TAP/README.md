@@ -1,4 +1,4 @@
-# **Quinto Semestre: Programación Orientada a Objetos**
+# **Quinto Semestre: Tópicos Avanzados de Programación**
 
 ------------
 #### Docente: Cynthia Ivette Miramontes Ortega.
